@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
   DevAccountEmail: daniel.cortes@zonavirtual.uisek.cl
-  DevAccountToken: oyywztkxpe11ipatu4sg36dyifyuubszdjjbignjmh4bnoh7aqjj9x6eqnh47hffwnrau8116usafpmdg9of58ktudfnt3sar9e5fsrtiihwkg5hncsgs7gh88nrr5y8rn8e8iqw58ep5cznmqgqn8u5u5juowys78ufm35o47dnq6yy545f7nk4cmbycpmdqgo31x6d
+  DevAccountToken: qz7x1c3e4rw6k1smqf9msiqu59jo9ma9tzdsi5misinerz6nafxti4fxhw554ygdtozgmdkeffyqipaaob3gps8f9f6ztouq8xp6c37edjaz7ry3mcb8ro8a7emj5gmdmhdxc5e7qwtaerec7yf76rbmppwe6ssxzicncmfg59osb9tniq3rub5n713jp1h55un7ssgt
   AadAuthorization: 
-  SelectedStudio: DCH
+  SelectedStudio: 
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
