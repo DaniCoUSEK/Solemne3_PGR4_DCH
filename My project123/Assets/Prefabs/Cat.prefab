@@ -64,6 +64,7 @@ MonoBehaviour:
   pruebaCubito2: {fileID: 3732395349847013307}
   vfxSfx: {fileID: 4084000387491842510}
   life: 5
+  value: 0
 --- !u!114 &3541101232489842777
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126,7 +127,7 @@ MonoBehaviour:
   aSource: {fileID: 1090999954323241782}
   targetCat: {fileID: 8300000, guid: 58c622749a0e79040bce873f2a0c8e3e, type: 3}
   notTargetCat: {fileID: 8300000, guid: a7e966d5bd4730f4aa1cb51c1b2a7101, type: 3}
-  dead: {fileID: 8300000, guid: aee17c6e8ef0b0245afb5f316c74fe06, type: 3}
+  dead: {fileID: 8300000, guid: 2a8903479487ec5419f6f4f087e18339, type: 3}
   simpleMow: {fileID: 8300000, guid: 07f0471b561ed804f82fed6e4b4f9c28, type: 3}
   hitVFX: {fileID: 4910246696606696291}
   DeadVFX: {fileID: 8079484005778944447}

@@ -13,12 +13,14 @@ public class Cat : MonoBehaviour
     [SerializeField] float life;
 
     public static CatStateType state = CatStateType.Instantiate;
-    float value;
+    public float value;
     float time;
     float timeToChange;
     bool isStartGaming;
     bool isGameEnded;
     bool isSelected = false;
+
+    static float decimas;
 
     private void Start()
     {
@@ -131,8 +133,13 @@ public class Cat : MonoBehaviour
     void ShowDecimas()
     {
         vfxSfx.ShowDecimas(value);
+        AddDecimas();
     }
-
+    public float AddDecimas()
+    {
+        decimas =+ value;
+        return decimas;
+    }
     private void OnMouseEnter()
     {
         if (state == CatStateType.Selection)
